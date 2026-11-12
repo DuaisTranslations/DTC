@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://duaistranslations.github.io/DTC/sitemap.xml
